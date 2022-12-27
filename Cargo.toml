@@ -1,6 +1,6 @@
 [workspace]
 members = [
-  "example"
+  "guesser"
 ]
 
 # Binary size optimizations
